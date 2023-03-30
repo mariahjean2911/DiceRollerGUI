@@ -6,9 +6,6 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.ArrayList;
 import javax.swing.JButton;
-//Mariah McDonough
-//Dice Roller Program
-//April 25, 2022
 
 public class Main extends JFrame implements ActionListener {
     static int action = 0;
